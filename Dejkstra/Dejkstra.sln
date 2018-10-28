@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dejkstra", "Dejkstra\Dejkstra.csproj", "{88831308-8A4C-487F-A702-5B7E71DFCA3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DejkstraDemo", "DejkstraDemo\DejkstraDemo.csproj", "{9601A954-748B-493E-BA93-D69EB1A4459B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88831308-8A4C-487F-A702-5B7E71DFCA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88831308-8A4C-487F-A702-5B7E71DFCA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88831308-8A4C-487F-A702-5B7E71DFCA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88831308-8A4C-487F-A702-5B7E71DFCA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9601A954-748B-493E-BA93-D69EB1A4459B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9601A954-748B-493E-BA93-D69EB1A4459B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9601A954-748B-493E-BA93-D69EB1A4459B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9601A954-748B-493E-BA93-D69EB1A4459B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0C4B58D-BC2A-41A9-8FC6-CE3350DB5CB3}
+	EndGlobalSection
+EndGlobal
